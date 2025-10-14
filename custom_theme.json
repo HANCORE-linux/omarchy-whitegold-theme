@@ -1,12 +1,12 @@
 {
   "name": "WhiteGold",
   "created_at": "2025-10-10T23:48:37.325370654+00:00",
-  "modified_at": "2025-10-14T21:30:33.142062999+00:00",
+  "modified_at": "2025-10-14T21:47:23.924590796+00:00",
   "apps": {
     "alacritty": {
       "colors": {
         "bright": {
-          "black": "#06362D",
+          "black": "#262626",
           "blue": "#4D574E",
           "cyan": "#3B3B3B",
           "green": "#91760d",
@@ -57,11 +57,11 @@
       "cached_start": "#8a8a8d",
       "colors": {
         "basic": {
-          "hi_fg": "#06362D",
-          "inactive_fg": "#b3b3b3",
+          "hi_fg": "#3B3B3B",
+          "inactive_fg": "#a19f7f",
           "main_bg": "#C5BFAF",
           "main_fg": "#0c0c14",
-          "proc_misc": "#06362D",
+          "proc_misc": "#3B3B3B",
           "selected_bg": "#7a5e1e",
           "selected_fg": "#C5BFAF",
           "title": "#7a5e1e"
@@ -144,7 +144,7 @@
     "ghostty": {
       "colors": {
         "bright": {
-          "black": "#06362D",
+          "black": "#262626",
           "blue": "#4D574E",
           "cyan": "#3B3B3B",
           "green": "#91760d",
@@ -207,7 +207,7 @@
     "kitty": {
       "colors": {
         "bright": {
-          "black": "#06362D",
+          "black": "#262626",
           "blue": "#4D574E",
           "cyan": "#3B3B3B",
           "green": "#91760d",
@@ -274,7 +274,7 @@
       "colors": {
         "background_color": "#C5BFAF",
         "border_color": "#7a5e1e",
-        "image": "#06362D",
+        "image": "#3B3B3B",
         "label": "#A09D93",
         "progress": "#0c0c14"
       },
@@ -282,7 +282,9 @@
       "label": "#8A8A8D",
       "progress": "#8A8A8D"
     },
-    "vscode": {},
+    "vscode": {
+      "raw_config": "{\n  \"name\": \"Gold Standard\",\n  \"extension\": \"wxlfe.gold-standard\"\n}"
+    },
     "walker": {
       "background": "#121212",
       "base": "#121212",
