@@ -30,9 +30,9 @@ cp system24-whitegold.theme.css ~/.config/vesktop/themes/system24-whitegold.them
 - Make sure Lazyvim is update to date type :Lazy <br>
 
 ## VSCode-Theme
-- Using Theme: "pale rose theme"
-- Using Extension-ID: "chee.pale-rose"
-- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: pale rose theme
+- Using Theme: "Gold Standard" light mode
+- Using Extension-ID: "wxlfe.gold-standard"
+- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Gold Standard
 
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
