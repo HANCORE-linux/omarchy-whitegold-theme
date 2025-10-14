@@ -1,0 +1,83 @@
+# ────────────────────────────────────────────────────────────
+# Custom Theme for btop
+# Made with Omarchist
+# ────────────────────────────────────────────────────────────
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#C5BFAF"
+
+# Main text color
+theme[main_fg]="#0c0c14"
+
+# Title color for boxes
+theme[title]="#7a5e1e"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#06362D"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#7a5e1e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#C5BFAF"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#b3b3b3"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#06362D"
+
+# Cpu box outline color
+theme[cpu_box]="#7a5e1e"
+
+# Memory/disks box outline color
+theme[mem_box]="#7a5e1e"
+
+# Net up/down box outline color
+theme[net_box]="#7a5e1e"
+
+# Processes box outline color
+theme[proc_box]="#7a5e1e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7a5e1e"
+
+# Temperature graph colors
+theme[temp_start]="#91760d"
+theme[temp_mid]="#91760d"
+theme[temp_end]="#3B3B3B"
+
+# CPU graph colors
+theme[cpu_start]="#91760d"
+theme[cpu_mid]="#91760d"
+theme[cpu_end]="#4B0304"
+
+# Mem/Disk free meter
+theme[free_start]="#91760d"
+theme[free_mid]="#91760d"
+theme[free_end]="#3B3B3B"
+
+# Mem/Disk cached meter
+theme[cached_start]="#91760d"
+theme[cached_mid]="#91760d"
+theme[cached_end]="#3B3B3B"
+
+# Mem/Disk available meter
+theme[available_start]="#91760d"
+theme[available_mid]="#91760d"
+theme[available_end]="#3B3B3B"
+
+# Mem/Disk used meter
+theme[used_start]="#91760d"
+theme[used_mid]="#91760d"
+theme[used_end]="#3B3B3B"
+
+# Download graph colors
+theme[download_start]="#91760d"
+theme[download_mid]="#91760d"
+theme[download_end]="#3B3B3B"
+
+# Upload graph colors
+theme[upload_start]="#91760d"
+theme[upload_mid]="#91760d"
+theme[upload_end]="#3B3B3B"
