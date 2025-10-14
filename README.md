@@ -2,8 +2,7 @@
 Theme is for https://omarchy.org/. 
 
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-10-14_23-39-44" src="https://github.com/user-attachments/assets/0180dba8-a6c8-4126-93c7-7062865ecda3" />
-
+<img width="2560" height="1440" alt="screenshot-2025-10-14_23-47-35" src="https://github.com/user-attachments/assets/e68bbb32-fefd-45fa-80c1-5d9d6f259433" />
 
 
 
