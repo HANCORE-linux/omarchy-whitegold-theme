@@ -1,7 +1,7 @@
 {
   "name": "WhiteGold",
   "created_at": "2025-10-10T23:48:37.325370654+00:00",
-  "modified_at": "2025-10-14T21:47:23.924590796+00:00",
+  "modified_at": "2025-10-16T05:29:03.851119923+00:00",
   "apps": {
     "alacritty": {
       "colors": {
@@ -20,7 +20,7 @@
           "text": "#0c0c14"
         },
         "normal": {
-          "black": "#C5BFAF",
+          "black": "#DEDBC8",
           "blue": "#4D574E",
           "cyan": "#3B3B3B",
           "green": "#91760d",
@@ -30,12 +30,12 @@
           "yellow": "#2E311A"
         },
         "primary": {
-          "background": "#C5BFAF",
+          "background": "#DEDBC8",
           "dim_foreground": "#0c0c14",
           "foreground": "#0c0c14"
         },
         "selection": {
-          "background": "#C5BFAF"
+          "background": "#DEDBC8"
         }
       },
       "font": {
@@ -59,11 +59,11 @@
         "basic": {
           "hi_fg": "#3B3B3B",
           "inactive_fg": "#a19f7f",
-          "main_bg": "#C5BFAF",
+          "main_bg": "#DEDBC8",
           "main_fg": "#0c0c14",
           "proc_misc": "#3B3B3B",
           "selected_bg": "#7a5e1e",
-          "selected_fg": "#C5BFAF",
+          "selected_fg": "#DEDBC8",
           "title": "#7a5e1e"
         },
         "boxes": {
@@ -158,7 +158,7 @@
           "text": "#0c0c14"
         },
         "normal": {
-          "black": "#C5BFAF",
+          "black": "#DEDBC8",
           "blue": "#4D574E",
           "cyan": "#3B3B3B",
           "green": "#91760d",
@@ -168,7 +168,7 @@
           "yellow": "#2E311A"
         },
         "primary": {
-          "background": "#C5BFAF",
+          "background": "#DEDBC8",
           "foreground": "#0c0c14"
         },
         "selection": {
@@ -192,9 +192,9 @@
       "color": "12,12,12,1.0",
       "colors": {
         "check_color": "122,94,30,1.0",
-        "color": "197,191,175,1.0",
+        "color": "222,219,200,1.0",
         "font_color": "12,12,20,1.0",
-        "inner_color": "197,191,175,1.0",
+        "inner_color": "222,219,200,1.0",
         "outer_color": "122,94,30,1.0"
       },
       "font_color": "234,234,234,1.0",
@@ -221,7 +221,7 @@
           "text": "#0c0c14"
         },
         "normal": {
-          "black": "#C5BFAF",
+          "black": "#DEDBC8",
           "blue": "#4D574E",
           "cyan": "#3B3B3B",
           "green": "#91760d",
@@ -231,11 +231,11 @@
           "yellow": "#2E311A"
         },
         "primary": {
-          "background": "#C5BFAF",
+          "background": "#DEDBC8",
           "foreground": "#0c0c14"
         },
         "selection": {
-          "background": "#C5BFAF",
+          "background": "#DEDBC8",
           "foreground": "#0c0c14"
         }
       }
@@ -247,7 +247,7 @@
       "border_size": 2,
       "colors": {
         "normal": {
-          "background_color": "#c5bfaf",
+          "background_color": "#DEDBC8",
           "border_color": "#7a5e1e",
           "text_color": "#0c0c14"
         }
@@ -272,7 +272,7 @@
       "background_color": "#121212",
       "border_color": "#8A8A8D",
       "colors": {
-        "background_color": "#C5BFAF",
+        "background_color": "#DEDBC8",
         "border_color": "#7a5e1e",
         "image": "#3B3B3B",
         "label": "#A09D93",
@@ -290,8 +290,8 @@
       "base": "#121212",
       "border": "#EAEAEA88",
       "colors": {
-        "background": "#C5BFAF",
-        "base": "#C5BFAF",
+        "background": "#DEDBC8",
+        "base": "#DEDBC8",
         "border": "#7a5e1e",
         "foreground": "#2E311A",
         "selected_text": "#7a5e1e",
@@ -305,7 +305,7 @@
       "background": "#1e1e1e",
       "colors": {
         "main": {
-          "background": "#C5BFAF",
+          "background": "#DEDBC8",
           "foreground": "#0c0c14"
         }
       },
@@ -314,7 +314,7 @@
   },
   "colors": {
     "primary": {
-      "background": "#c5bfaf",
+      "background": "#dedbc8",
       "foreground": "#0c0c14"
     },
     "terminal": {
