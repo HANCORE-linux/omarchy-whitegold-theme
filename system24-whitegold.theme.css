@@ -130,15 +130,15 @@ body {
     /* text colors */
     --text-0: var(--bg-4);
     /* text on colored elements */
-    --text-1: #2E311A;
+    --text-1: #F3F3E6;
     /* other normally white text */
     --text-2: #7a5e1e;
     /* headings and important text */
     --text-3: #0c0c14;
     /* normal text */
-    --text-4: #2E311A;
+    --text-4: #7a5e1e;
     /* icon buttons and channels */
-    --text-5: #0c0c14;
+    --text-5: #3B3B3B;
     /* muted channels/chats and timestamps */
 
     /* background and dark colors */
@@ -146,7 +146,7 @@ body {
     /* dark buttons when clicked */
     --bg-2: #C5BFAF;
     /* dark buttons */
-    --bg-3: #9E8B60;
+    --bg-3: #EBEAE1;
     /* spacing, secondary elements */
     --bg-4: #DEDBC8;
     /* main background color */
