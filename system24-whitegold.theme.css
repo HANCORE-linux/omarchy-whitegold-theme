@@ -136,7 +136,7 @@ body {
     /* headings and important text */
     --text-3: #2E311A;
     /* normal text */
-    --text-4: #0c0c14;
+    --text-4: #91760d;
     /* icon buttons and channels */
     --text-5: #0c0c14;
     /* muted channels/chats and timestamps */
@@ -148,7 +148,7 @@ body {
     /* dark buttons */
     --bg-3: #9E8B60;
     /* spacing, secondary elements */
-    --bg-4: #C5BFAF;
+    --bg-4: #DEDBC8;
     /* main background color */
     --hover: #9E8B60;
     /* channels and buttons when hovered */
