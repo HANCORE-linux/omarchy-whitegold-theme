@@ -5,7 +5,7 @@
 
 [colors]
 [colors.primary]
-background = "#C5BFAF"
+background = "#DEDBC8"
 foreground = "#0c0c14"
 dim_foreground = "#0c0c14"
 
@@ -15,10 +15,10 @@ cursor = "#91760d"
 
 [colors.selection]
 text = "CellForeground"
-background = "#C5BFAF"
+background = "#DEDBC8"
 
 [colors.normal]
-black = "#C5BFAF"
+black = "#DEDBC8"
 red = "#4B0304"
 green = "#91760d"
 yellow = "#2E311A"
