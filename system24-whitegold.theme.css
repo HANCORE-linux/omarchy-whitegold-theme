@@ -130,13 +130,13 @@ body {
     /* text colors */
     --text-0: var(--bg-4);
     /* text on colored elements */
-    --text-1: #3B3B3B;
+    --text-1: #2E311A;
     /* other normally white text */
     --text-2: #7a5e1e;
     /* headings and important text */
-    --text-3: #2E311A;
+    --text-3: #0c0c14;
     /* normal text */
-    --text-4: #91760d;
+    --text-4: #2E311A;
     /* icon buttons and channels */
     --text-5: #0c0c14;
     /* muted channels/chats and timestamps */
@@ -150,7 +150,7 @@ body {
     /* spacing, secondary elements */
     --bg-4: #DEDBC8;
     /* main background color */
-    --hover: #9E8B60;
+    --hover: #F3F3E6;
     /* channels and buttons when hovered */
     --active: oklch(54% 0 0 / 0.2);
     /* channels and buttons when clicked or selected */
@@ -164,7 +164,7 @@ body {
     /* links and other accent text */
     --accent-2: #7a5e1e;
     /* small accent elements */
-    --accent-3: #7f680b;
+    --accent-3: #262626;
     /* accent buttons */
     --accent-4: var(--grey-4);
     /* accent buttons when hovered */
