@@ -2,7 +2,8 @@
 Gold , Platinum, Silver, colors with base White. Theme is for https://omarchy.org/. 
 
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-10-18_21-29-52" src="https://github.com/user-attachments/assets/f57de847-9080-475b-b641-e64fa2785341" />
+<img width="2560" height="1440" alt="screenshot-2025-10-18_21-31-58" src="https://github.com/user-attachments/assets/5df50a1e-f49a-416d-853b-5198a4972cad" />
+
 
 
 
