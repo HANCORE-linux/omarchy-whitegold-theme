@@ -11,7 +11,7 @@
 @define-color foreground #2E311A;
 @define-color background #DEDBC8;
 
-@define-color hover #3B3B3B;
+@define-color hover #7a5e1e;
 @define-color accent #DEDBC8;
 window .search-container,
 window .search {
