@@ -1,0 +1,67 @@
+# White Gold
+# Theme create by: https://github.com/HANCORE-linux/omarchy-whitegold-theme
+# Update by(sort by time):
+#
+# Thanks for all contributor!!
+
+# If you want to make sidebar border display just set it same as sidebar background color
+
+# Code syntax highlight theme (you can go to https://github.com/alecthomas/chroma/blob/master/styles to find one you like)
+code_syntax_highlight = "whitegold"
+
+# ========= Border =========
+file_panel_border = "#2E311A" # Overlay0
+sidebar_border = "#0c0c14"    # Base
+footer_border = "#2E311A"     # Overlay0
+
+# ========= Border Active =========
+file_panel_border_active = "#9E8B60" # Lavendar
+sidebar_border_active = "#4B0304"    # Red
+footer_border_active = "#4D574E"     # Green
+modal_border_active = "#a19f7f"      # Overlay2
+
+# ========= Background (bg) =========
+full_screen_bg = "#DEDBC8" # Base
+file_panel_bg = "#DEDBC8"  # Base
+sidebar_bg = "#DEDBC8"     # Base
+footer_bg = "#DEDBC8"      # Base
+modal_bg = "#DEDBC8"       # Base
+
+# ========= Foreground (fg) =========
+full_screen_fg = "#0c0c14" # Subtext0
+file_panel_fg = "#0c0c14"  # Subtext0
+sidebar_fg = "#0c0c14"     # Subtext0
+footer_fg = "#0c0c14"      # Subtext0
+modal_fg = "#0c0c14"       # Subtext0
+
+# ========= Special Color =========
+cursor = "#3B3B3B"  # Rosewater
+correct = "#4D574E" # Green
+error = "#4B0304"   # Red
+hint = "#7a5e1e"    # Sapphire
+cancel = "#2E311A"  # Maroon
+# Gradient color can only have two color!
+gradient_color = ["#7a5e1e", "#3B3B3B"] # [Blue, Mauve]
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = "#4D574E" # Green
+file_panel_top_path = "#3B3B3B"           # Blue
+file_panel_item_selected_fg = "#91760d"   # Sky
+file_panel_item_selected_bg = "#0c0c14"   # Base
+
+# ========= Sidebar Special Items =========
+sidebar_title = "#7a5e1e"            # Sapphire
+sidebar_item_selected_fg = "#91760d" # Sky
+sidebar_item_selected_bg = "#0c0c14" # Base
+sidebar_divider = "#a19f7f"          # Overlay2
+
+# ========= Modal Special Items =========
+modal_cancel_fg = "#4B0304" # Surface0
+modal_cancel_bg = "#2E311A" # Maroon
+
+modal_confirm_fg = "#4B0304" # Surface0
+modal_confirm_bg = "#91760d" # Sky
+
+# ========= Help Menu =========
+help_menu_hotkey = "#91760d" # Sky
+help_menu_title = "#2E311A"  # Maroon
