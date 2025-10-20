@@ -36,6 +36,10 @@ cp system24-whitegold.theme.css ~/.config/vesktop/themes/system24-whitegold.them
 - Using Extension-ID: "wxlfe.gold-standard"
 - If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Gold Standard
 
+## Superfile Support
+- created a Theme for superfile
+- copy whitegold.toml to ~/.config/superfile/theme/
+
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
 
