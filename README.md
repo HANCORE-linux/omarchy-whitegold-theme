@@ -38,7 +38,7 @@ cp system24-whitegold.theme.css ~/.config/vesktop/themes/system24-whitegold.them
 
 ## Superfile Support
 - created a Theme for superfile
-- copy whitegold.toml to ~/.config/superfile/theme/
+- copy whitegold.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'whitegold' ```
 
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
