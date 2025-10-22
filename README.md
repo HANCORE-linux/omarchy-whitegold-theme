@@ -1,5 +1,7 @@
 # White Gold
-Gold , Platinum, Silver, colors with base White. Theme is for https://omarchy.org/. 
+White embodies clarity and serenity — the calm space where ideas begin.
+Gold brings warmth and purpose, a quiet symbol of mastery within simplicity.
+Together they form a theme of balance and grace — a workspace that feels timeless, pure, and alive.
 
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-10-18_21-31-58" src="https://github.com/user-attachments/assets/5df50a1e-f49a-416d-853b-5198a4972cad" />
