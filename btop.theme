@@ -10,7 +10,7 @@ theme[main_bg]="#DEDBC8"
 theme[main_fg]="#0c0c14"
 
 # Title color for boxes
-theme[title]="#7a5e1e"
+theme[title]="#695815"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#005C32"
@@ -48,7 +48,7 @@ theme[temp_mid]="#554616"
 theme[temp_end]="#3B3B3B"
 
 # CPU graph colors
-theme[cpu_start]="#91760d"
+theme[cpu_start]="#695815"
 theme[cpu_mid]="#554616"
 theme[cpu_end]="#4B0304"
 
