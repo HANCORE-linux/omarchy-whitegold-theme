@@ -4,7 +4,8 @@ Gold brings warmth and purpose, a quiet symbol of mastery within simplicity.
 Together they form a theme of balance and grace — a workspace that feels timeless, pure, and alive.
 
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-10-28_20-03-22" src="https://github.com/user-attachments/assets/849f3651-88d1-4aef-a1da-6b5b1649b6b5" />
+<img width="2560" height="1440" alt="screenshot-2025-10-28_20-05-52" src="https://github.com/user-attachments/assets/9a56e800-6f05-4705-a480-c150a6647be9" />
+
 
 
 
