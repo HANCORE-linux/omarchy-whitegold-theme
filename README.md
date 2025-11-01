@@ -6,6 +6,7 @@ Together they form a theme of balance and grace — a workspace that feels timel
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-10-28_20-07-45" src="https://github.com/user-attachments/assets/c603042a-3dce-4bd0-af22-726d7fa21027" />
 
+<img width="2560" height="1440" alt="screenshot-2025-11-02_00-27-54" src="https://github.com/user-attachments/assets/a3ac137a-e208-4928-a7bd-6e476e152bbb" />
 
 
 
