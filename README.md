@@ -26,11 +26,6 @@ To install this theme, simply use the omarchy-theme-install command:
 ```bash
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-whitegold-theme.git
 ```
-## Vesktop-Theme (recommended!)
-For Vesktop users, you can install this theme by downloading it (usally to ~/Downloads) and copy the theme file to your Vesktop themes directory:
-```bash
-cp system24-whitegold.theme.css ~/.config/vesktop/themes/system24-whitegold.theme.css
-```
 ## VSCode-Theme
 - Using Theme: "Gold Standard" light mode
 - Using Extension-ID: "wxlfe.gold-standard"
