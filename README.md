@@ -31,12 +31,6 @@ For Vesktop users, you can install this theme by downloading it (usally to ~/Dow
 ```bash
 cp system24-whitegold.theme.css ~/.config/vesktop/themes/system24-whitegold.theme.css
 ```
-
-## Neovim-Theme
-- Using https://github.com/bjarneo Pixel Theme which use the colors from terminal syntax <br>
-- Check https://github.com/bjarneo/pixel.nvim <br>
-- Make sure Lazyvim is update to date type :Lazy <br>
-
 ## VSCode-Theme
 - Using Theme: "Gold Standard" light mode
 - Using Extension-ID: "wxlfe.gold-standard"
