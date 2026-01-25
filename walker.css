@@ -11,16 +11,88 @@
 @define-color foreground #2E311A;
 @define-color background #DEDBC8;
 
-@define-color hover #7a5e1e;
-@define-color accent #DEDBC8;
-window .search-container,
-window .search {
-  background: alpha(@hover, 0.3);
-  color: @foreground;
-  border: 1px solid alpha(@border, 0.5);
-  border-radius: 12px;
-  padding: 8px 12px;
-  margin: 4px 0;
-  font-size: 14px;
-  font-weight: 500;
+window * {
+    all: unset;
+    color: @text;
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+}
+
+window .normal-icons,
+window .large-icons,
+window .item-image,
+window .symbols {
+    -gtk-icon-size: 18px;
+    min-width: 0;
+    min-height: 0;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+window .box-wrapper {
+    background: alpha(@base, 1);           /* dark transparency */
+    border: 2px solid alpha(@border, 0.9);    /* visible border */
+    border-radius: 5px;
+    padding: 4px;
+    margin: 0;
+    box-shadow: 0 2px 12px alpha(black, 0.45);
+    backdrop-filter: blur(1px);
+    line-height: 10%;
+}
+
+window .search-container {
+    border: 2px solid alpha(@border, 0.2);    /* visible border */
+    border-radius: 3px;
+    padding: 4px 6px;
+    margin: 0x;
+    background: alpha(@border, 0.65);            /* slightly transparent */
+    box-shadow: inset 0 0 6px alpha(white, 0.0);
+    backdrop-filter: blur(1px);
+    line-height: 1em;
+}
+
+
+window .input {
+    background: transparent;
+    color: @text;
+}
+
+window .preview {
+    border: 0px solid alpha(@border, 0);
+    border-radius: 4px;
+    background: alpha(@base, 0.5);
+    color: @text;
+    padding: 10px 10px 10px;
+    margin: 10px 0px 10px;
+    box-shadow: inset 0 0 8px alpha(white, 0);
+    backdrop-filter: blur(8px);
+    line-height: 1em;
+}
+
+child:selected {
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid alpha(@border, 0.4);
+    border-radius: 4px;
+    background-color: mix(#7a5e1e, @background, 0.8);
+    transition: all 0.15s ease-out;
+    transition: background-color 0s ease-out;
+    box-shadow:
+        0 0 1px rgba(122, 94, 30, 0.1),
+        0 0 1px rgba(122, 94, 30, 0.1),
+}
+child:selected .item-box {
+    
+    margin-left: 0px;
+    margin-top: 3px;
+    
+}
+
+/* Revert Selected Item Color */
+child:selected .item-box * {
+    color: @selected-text;
 }
