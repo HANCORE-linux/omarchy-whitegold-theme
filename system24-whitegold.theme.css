@@ -86,11 +86,11 @@ body {
     --colors: on; /* off: discord default colors, on: midnight custom colors */
 
     /* text colors */
-    --text-0: var(--bg-4); /* text on colored elements */
+    --text-0: #0c0c14; /* text on colored elements (darkened: --accent-3 button is now light #9a9078) */
     --text-1: #F3F3E6; /* other normally white text */
-    --text-2: #7a5e1e; /* headings and important text */
+    --text-2: #762b2f; /* headings and important text */
     --text-3: #0c0c14; /* normal text */
-    --text-4: #7a5e1e; /* icon buttons and channels */
+    --text-4: #762b2f; /* icon buttons and channels */
     --text-5: #3B3B3B; /* muted channels/chats and timestamps */
 
     /* background and dark colors */
@@ -105,8 +105,8 @@ body {
 
     /* accent colors */
     --accent-1: #4B0304; /* links and other accent text */
-    --accent-2: #7a5e1e; /* small accent elements */
-    --accent-3: #262626; /* accent buttons */
+    --accent-2: #762b2f; /* small accent elements */
+    --accent-3: #9a9078; /* accent buttons */
     --accent-4: var(--purple-4); /* accent buttons when hovered */
     --accent-5: var(--purple-5); /* accent buttons when clicked */
     --accent-new: #4D574E; /* stuff that's normally red like mute/deafen buttons */

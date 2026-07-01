@@ -1,34 +1,44 @@
 /* ────────────────────────────────────────────────────────────
- * Custom Theme for SwayOSD
- * Made with Omarchist
+ * Custom Theme for SwayOSD  —  moodpeak design, whitegold palette
  * ────────────────────────────────────────────────────────────
  */
 
-@define-color background-color #DEDBC8;
-@define-color border-color #7a5e1e;
-@define-color label #A09D93;
-@define-color image #0c0c14;
-@define-color progress #0c0c14;
+@define-color base #DEDBC8;
+@define-color text #0c0c14;
+@define-color border #2E311A;
+@define-color image #005C32;
+@define-color label #005C32;
+@define-color progress #762b2f;
 
 /* Cancel out Omarchy settings */
 window:not(:backdrop),
 window:backdrop {
     border: none;
     border-width: 0;
-    border-radius: 4px;
+    border-radius: 6px;
     background-color: transparent;
     box-shadow: none;
     padding: 12px;
 }
 
-
-/* Draw a new background */
+/* Draw a new background (solid — like moodpeak, no blur) */
 window:not(:backdrop) #container,
 window:backdrop #container {
-    border: 2px solid @border-color;
-    border-radius: 4px;
-    background-color: @background-color;
+    border: 2px solid @border;
+    border-radius: 6px;
+    background-color: @base;
     padding: 12px;
     background-clip: padding-box;
     box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.25);
+}
+
+/* Volume / brightness bar: subtle track + accent edge */
+progressbar trough {
+    background-color: rgba(154, 144, 120, 0.6);
+    border: 1px solid rgba(0, 92, 50, 0.22);
+    border-radius: 3px;
+}
+
+progress {
+    border-radius: 3px;
 }
