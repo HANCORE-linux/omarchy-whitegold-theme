@@ -1,0 +1,148 @@
+# Omarchy Quattro surfaces for WhiteGold.
+# Opaque warm-ivory panels, the original dark-olive active frame, and a muted
+# gold selection preserve the theme's restrained light-mode character.
+
+[bar]
+background = "#DEDBC8"
+background-alpha = 1.0
+text = "#0C0C14"
+active = "#005C32"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "#2E311A"
+active-border-foreground = "#DEDBC8"
+
+[controls]
+normal-color = "#9A9078"
+normal-fill-alpha = 0.20
+normal-border-width = 1
+normal-border-alpha = 0.52
+
+hover-cursor-color = "#91760D"
+hover-cursor-fill-alpha = 0.18
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.68
+
+focus-color = "#005C32"
+focus-fill-alpha = 0.16
+focus-border-width = 1
+focus-border-alpha = 0.90
+
+selected-color = "#725C0A"
+selected-fill-alpha = 0.22
+selected-border-width = 1
+selected-border-alpha = 0.72
+
+pressed-color = "#4B0304"
+pressed-fill-alpha = 0.22
+selection-color = "#9A9078"
+selection-fill-alpha = 0.44
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+xs = 2
+md = 4
+control-padding-y = 5
+panel-padding = 10
+
+[font]
+base-size = 12
+heading = 16
+icon-large = 18
+
+[popups]
+background = "#DEDBC8"
+background-alpha = 1.0
+text = "#3B3B3B"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+
+[tooltip]
+background = "#DEDBC8"
+background-alpha = 1.0
+text = "#0C0C14"
+border = "#725C0A"
+border-alpha = 0.90
+border-width = 1
+
+[notifications]
+background = "#DEDBC8"
+background-alpha = 1.0
+text = "#0C0C14"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+countdown = "#762B2F"
+
+[launcher]
+background = "#DEDBC8"
+background-alpha = 1.0
+text = "#0C0C14"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#0C0C14"
+scrim-alpha = 0.0
+selected-background = "#9A9078"
+selected-background-alpha = 0.55
+selected-text = "#0C0C14"
+selected-border = "#725C0A"
+selected-border-alpha = 0.45
+selected-border-width = 1
+
+[menu]
+background = "#DEDBC8"
+background-alpha = 1.0
+text = "#0C0C14"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#0C0C14"
+scrim-alpha = 0.0
+selected-background = "#9A9078"
+selected-background-alpha = 0.55
+selected-text = "#0C0C14"
+selected-border = "#725C0A"
+selected-border-alpha = 0.45
+selected-border-width = 1
+
+[polkit]
+background = "#DEDBC8"
+background-alpha = 1.0
+text = "#0C0C14"
+text-error = "#4B0304"
+border = "hyprland.active-border"
+border-error = "#4B0304"
+border-alpha = 1.0
+border-width = 2
+scrim = "#0C0C14"
+scrim-alpha = 0.18
+accent = "#005C32"
+
+[lock]
+background = "#DEDBC8"
+background-alpha = 1.0
+text = "#0C0C14"
+placeholder = "#665E4AB3"
+text-error = "#4B0304"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#4B0304"
+border-alpha = 1.0
+border-width = 2
+selection = "#725C0A"
+selection-alpha = 0.38
+
+[image-picker]
+scrim = "#0C0C14"
+scrim-alpha = 0.18
+text = "#0C0C14"
+selected-border = "#005C32"
+selected-border-alpha = 1.0
+unselected-border = "#9A9078"
+unselected-border-alpha = 1.0
